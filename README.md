@@ -91,23 +91,14 @@
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
 </p>
 
-<p align="center">
-    <a href="https://github.com/Saumya-chaubey/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Smit Patel streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Saumya-chaubey&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+
 
 <!-- <img src = "https://github-readme-stats.vercel.app/api?username=jsm-28415&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
 
 ## 🏆 GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Saumya-chaubey&column=8)](https://github-profile-trophy.vercel.app/?username=hi-malik&column=8)
 
-## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/Saumya-chaubey/github-readme-stats"><img alt="jayambe36 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Saumya-chaubey&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Saumya-chaubey/github-readme-stats"><img alt="Smit PATEL Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saumya-chaubey&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
@@ -137,18 +128,18 @@
 <a href="https://github.com/Saumya-chaubey/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=hi-malik">
 </a>
-<a href="https://github.com/jayambe36?tab=followers"><img src="https://img.shields.io/github/followers/jayambe36?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Saumyachaubey?tab=followers"><img src="https://img.shields.io/github/followers/Saumyachaubey?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ## ❤ LeetCode
 <h3 align="left"></h3>
-  <a href="[https://leetcode.com/jayambe36/](https://leetcode.com/Saumyachaubey/)">
+  <a href="[https://leetcode.com/Saumyachaubey/](https://leetcode.com/Saumyachaubey/)">
   <img src="https://leetcard.jacoblin.cool/jayambe36?ext=contest&theme=light,unicorn" alt="Leetcode Stats">
   </a>
   
 
 
 ## Watch my contribution graph get eaten by the snake 🐍
-![snake gif](https://github.com/jayambe36/jayambe36/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Saumyachaubey/Saumyachaubey/blob/output/github-contribution-grid-snake.gif)
 
 
 <div align="center">

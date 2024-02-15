@@ -65,7 +65,7 @@
 - 💬 Ask me about ... Web Development, Data Structures & Algorithms <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="38">
 - 📃 My blogging website ... https://jayambe36.github.io/
 - 📃My Portfolio website ... https://jayambe36.github.io/
-- 📫 How to reach me: ... **smitrpatel19@gmail.com**
+- 📫 How to reach me: ... **saumyachubey749@gmail.com or smitrpatel19@gmail.com**
 - ▶️ My YouTube channel: ...<a href="https://www.youtube.com/channel/UCqb4iR2fqzl6xmWnkBZAuBA" alt="@DailyCodingWorkout"> **@DailyCodingWorkout** </a>
 - ⚡ Fun fact: ... I love to Solve Problems. **I can do leetcode and gfg problems every day [Workaholic Person]**
 

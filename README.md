@@ -8,22 +8,22 @@
 
 
   <a href="https://github.com/Saumya-chaubey?tab=followers">
-    <img src="https://img.shields.io/github/followers/jayambe36?style=flat-square&color=black&logo=github" alt="GitHub Badge">
+    <img src="https://img.shields.io/github/followers/Saumya-chaubey?style=flat-square&color=black&logo=github" alt="GitHub Badge">
   </a>
   <a href="https://github.com/Saumya-chaubey">
-    <img src="https://badges.strrl.dev/visits/jayambe36/jayambe36?style=flat-square&color=black&logo=github">
+    <img src="https://badges.strrl.dev/visits/Saumya-chaubey/Saumya-chaubey?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/Saumya-chaubey">
-    <img src="https://badges.strrl.dev/years/jayambe36?style=flat-square&color=black&logo=github">
+    <img src="https://badges.strrl.dev/years/Saumya-chaubey?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/Saumya-chaubey?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/jayambe36?style=flat-square&color=black&logo=github">
+    <img src="https://badges.strrl.dev/repos/Saumya-chaubey?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://gist.github.com/Saumya-chaubey">
-    <img src="https://badges.strrl.dev/gists/jayambe36?style=flat-square&color=black&logo=github">
+    <img src="https://badges.strrl.dev/gists/Saumya-chaubey?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/Saumya-chaubey">
-    <img src="https://badges.strrl.dev/commits/monthly/jayambe36?style=flat-square&color=black&logo=github">
+    <img src="https://badges.strrl.dev/commits/monthly/Saumya-chaubey?style=flat-square&color=black&logo=github">
   </a>
   
   </div>
@@ -50,7 +50,7 @@
   
   <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+SmitPATEL;I'm+Software+Developer❤❤❤;❤CPP+LeetCode+PYTHON❤;I+❤+DSA...;❤+CPP+HACKERRANK+❤;❤+CPP+GFG+❤)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+Saumya Chaubey;I'm+Software+Developer❤❤❤;❤CPP+LeetCode+PYTHON❤;I+❤+DSA...;❤+CPP+HACKERRANK+❤;❤+CPP+GFG+❤)](https://git.io/typing-svg)
 </div>
 
 
@@ -63,9 +63,7 @@
 - 🤔 I’m looking for help with ... **Data Science**
 - 👊🤜 I always had a fight with me VS me 
 - 💬 Ask me about ... Web Development, Data Structures & Algorithms <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="38">
-- 📃 My blogging website ... https://jayambe36.github.io/
-- 📃My Portfolio website ... https://jayambe36.github.io/
-- 📫 How to reach me: ... **saumyachubey749@gmail.com**
+- 📫 How to reach me: ... **saumyachubey749@gmail.com or smitrpatel19@gmail.com**
 - ⚡ Fun fact: ... I love to Solve Problems. **I can do leetcode and GFG problems every day [Workaholic Person]**
 
 ## 🚀 Languages and Tools :: </> 
@@ -133,7 +131,7 @@
 ## ❤ LeetCode
 <h3 align="left"></h3>
   <a href="[https://leetcode.com/Saumyachaubey/](https://leetcode.com/Saumyachaubey/)">
-  <img src="https://leetcard.jacoblin.cool/jayambe36?ext=contest&theme=light,unicorn" alt="Leetcode Stats">
+  <img src="https://leetcard.jacoblin.cool/Saumyachaubey?ext=contest&theme=light,unicorn" alt="Leetcode Stats">
   </a>
   
 

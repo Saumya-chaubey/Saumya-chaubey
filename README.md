@@ -50,7 +50,7 @@
   
   <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+Saumya Chaubey;I'm+Software+Developer❤❤❤;❤CPP+LeetCode+PYTHON❤;I+❤+DSA...;❤+CPP+HACKERRANK+❤;❤+CPP+GFG+❤)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+SaumyaChaubey;I'm+Software+Developer❤❤❤;❤CPP+LeetCode+PYTHON❤;I+❤+DSA...;❤+CPP+HACKERRANK+❤;❤+CPP+GFG+❤)](https://git.io/typing-svg)
 </div>
 
 
@@ -118,9 +118,6 @@
 
 </p>
 
-## ❤ My YouTube Channel
-
-<img align="left" alt="YouTube GIF" width="auto" height="576" src="https://github.com/hi-malik/Personal/blob/main/ezgif.com-gif-maker.gif">
 
 ## ❤ Views and Followers
 <a href="https://github.com/Saumya-chaubey/github-profile-views-counter">
